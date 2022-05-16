@@ -7,21 +7,21 @@ collection: about
 entries_layout: grid
 classes: wide
 ---
-Welcome to randomwalk blog. Here I pen down random thoughts/ studies/ opinions/ etc. related to cybersecurity and machine learning (Or sometimes Computer Science in general). For one to one conversation with author, please use author's public key [here](/static/base.txt).
+Welcome to randomwalk blog. Here I pen down random thoughts/ studies/ opinions/ etc. related to cybersecurity and machine learning (Or sometimes Computer Science in general). For one to one chat, please click [here](https://keybase.io/rahulrajpl) or use my public key [here](/base.txt).
 
 **Contact**
 
-Best way to contact author is email. 
+Best way to contact me is email. (Will be updated soon)
 
 **Thanks**
 
-Author has borrowed the hardwork of following people to build this website. Thanks to
+I have borrowed the hardwork of following people to build this website (with minor tweaks). Thanks to
 
 1. [Michael Rose](https://github.com/mmistakes)(for the jekyll theme)
 
 2. [Jeff Donahue](http://jeffdonahue.com/) (for the email unscramble script)
 
-Author uses and advocates opensource. Design used [here](https://agusmakmun.github.io/) is also open to [fork](https://github.com/rahulrajpl/rahulrajpl.github.io) and improve further.
+I use and advocate opensource. Design used here is also open to fork.
 
 
 **Disclaimer**
